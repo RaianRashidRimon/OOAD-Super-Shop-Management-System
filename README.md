@@ -14,3 +14,28 @@ This project contains the following UML diagrams:
 - **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
 - **Database Schema** – Defines the structure of the database, including tables, relationships, and constraints.
 - **State Chart Diagram** – Represents the different states of an object and the transitions between those states.
+
+## 🤝 Contribution
+Contributions are welcome! If you’d like to improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (feature-branch).
+3. Add or update UML diagrams and documentation.
+4. Submit a pull request.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
