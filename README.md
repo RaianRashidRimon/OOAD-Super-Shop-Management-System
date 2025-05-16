@@ -6,6 +6,11 @@ The Super Shop Management System is an Object-Oriented Analysis and Design (OOAD
 
 By applying OOAD principles, the project defines interactions between key system components, including customers, employees, and inventory management. The analysis includes identifying core system functionalities, optimizing workflows, and enhancing operational efficiency. Serving as a blueprint for developing an automated super shop system, this project offers valuable insights into software architecture and best design practices.
 
+## 📄 Documents Included
+This project contains the following documents:
+- Software Requirement Specification
+- Software Diagram Specification
+
 ## 📊 UML Diagrams Included
 This project contains the following UML diagrams:
 - **Use Case Diagram** – Defines system interactions with users.
