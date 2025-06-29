@@ -24,7 +24,7 @@ This project contains the following UML diagrams:
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (feature-branch).
+2. Create a new branch.
 3. Add or update UML diagrams and documentation.
 4. Submit a pull request.
 
