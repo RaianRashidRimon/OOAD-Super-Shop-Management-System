@@ -14,6 +14,10 @@ This project contains the following documents:
 ## 📊 UML Diagrams Included
 This project contains the following UML diagrams:
 - **Use Case Diagram** – Defines system interactions with users.
+  
+  <div align="center">
+  <img src="Diagrams/Use Case Diagram.png" alt="use case" width="500"/>
+</div>
 - **Class Diagram** – Represents system classes, their attributes, methods, and relationships.
 - **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
 - **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
