@@ -34,11 +34,18 @@ This project contains the following UML diagrams:
 - **State Chart Diagram** – Represents the different states of an object and the transitions between those states.
 
   <div align="center">
-  <img src="Diagrams/State chart Diagram.png" alt="statechart" width="700"/>
+  <img src="Diagrams/State chart Diagram.png" alt="statechart" width="550"/>
   </div>
 
-- **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
 - **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
+
+   <div align="center">
+  <img src="Diagrams/Activity diagram.png" alt="activity" width="550"/>
+  </div>
+  
+- **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
+
+
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
