@@ -25,10 +25,15 @@ This project contains the following UML diagrams:
   <img src="Diagrams/Final Class Diagram.png" alt="class diagram" width="700"/>
   </div>
   
-- **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
 - **Database Schema** – Defines the structure of the database, including tables, relationships, and constraints.
+
+  <div align="center">
+  <img src="Diagrams/DB Schema.png" alt="DB schema" width="700"/>
+  </div>
+  
 - **State Chart Diagram** – Represents the different states of an object and the transitions between those states.
 - **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
+- **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
