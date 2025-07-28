@@ -17,12 +17,18 @@ This project contains the following UML diagrams:
   
   <div align="center">
   <img src="Diagrams/Use Case Diagram.png" alt="use case" width="500"/>
-</div>
+  </div>
+
 - **Class Diagram** – Represents system classes, their attributes, methods, and relationships.
-- **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
+
+  <div align="center">
+  <img src="Diagrams/Final Class Diagram.png" alt="class diagram" width="700"/>
+  </div>
+  
 - **Activity Diagram** – Shows the workflow of key processes such as product purchasing and billing.
 - **Database Schema** – Defines the structure of the database, including tables, relationships, and constraints.
 - **State Chart Diagram** – Represents the different states of an object and the transitions between those states.
+- **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
