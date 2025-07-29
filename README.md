@@ -44,8 +44,12 @@ This project contains the following UML diagrams:
   </div>
   
 - **Sequence Diagram** – Illustrates the sequence of interactions between different objects.
-
-
+  
+  An example of one of the sequence diagrams
+  
+<div align="center">
+  <img src="Diagrams/Sequnce Diagrams/Payment - Delivery - Cancel Order.jpg" alt="P-D-CO sequence diagram" width="550"/>
+  </div>
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
